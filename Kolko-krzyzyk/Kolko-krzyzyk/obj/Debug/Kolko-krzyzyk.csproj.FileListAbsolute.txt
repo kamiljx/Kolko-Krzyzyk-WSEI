@@ -1,0 +1,6 @@
+/Users/kamilrzeszutek/Documents/Programowanie/C#/KK/Kolko-Krzyzyk-WSEI/Kolko-krzyzyk/Kolko-krzyzyk/bin/Debug/Kolko_krzyzyk.exe
+/Users/kamilrzeszutek/Documents/Programowanie/C#/KK/Kolko-Krzyzyk-WSEI/Kolko-krzyzyk/Kolko-krzyzyk/bin/Debug/Kolko_krzyzyk.pdb
+/Users/kamilrzeszutek/Documents/Programowanie/C#/KK/Kolko-Krzyzyk-WSEI/Kolko-krzyzyk/Kolko-krzyzyk/obj/Debug/Kolko-krzyzyk.csprojAssemblyReference.cache
+/Users/kamilrzeszutek/Documents/Programowanie/C#/KK/Kolko-Krzyzyk-WSEI/Kolko-krzyzyk/Kolko-krzyzyk/obj/Debug/Kolko-krzyzyk.csproj.CoreCompileInputs.cache
+/Users/kamilrzeszutek/Documents/Programowanie/C#/KK/Kolko-Krzyzyk-WSEI/Kolko-krzyzyk/Kolko-krzyzyk/obj/Debug/Kolko_krzyzyk.exe
+/Users/kamilrzeszutek/Documents/Programowanie/C#/KK/Kolko-Krzyzyk-WSEI/Kolko-krzyzyk/Kolko-krzyzyk/obj/Debug/Kolko_krzyzyk.pdb
