@@ -1,16 +1,16 @@
 ﻿using System;
 using System.Threading;
- 
+
 namespace KolkoKrzyzyk
 {
     class Program
     {
-  
+
         static char[] tablica = { '0', '1', '2', '3', '4', '5', '6', '7', '8', '9' };
-        static int Gracz = 1;   
-        static int wybor;   
+        static int Gracz = 1;
+        static int wybor;
         static int ktowygral = 0;
- 
+
         static void Main(string[] args)
         {
             do
@@ -28,7 +28,7 @@ namespace KolkoKrzyzyk
                 Console.WriteLine("\n");
                 Plansza();  
                 wybor = int.Parse(Console.ReadLine());   
- 
+	
                 if (tablica[wybor] != 'X' && tablica[wybor] != 'O')
                 {
                     if (Gracz % 2 == 0)  
@@ -50,20 +50,23 @@ namespace KolkoKrzyzyk
                 }
                 ktowygral = kto();  
             } while (ktowygral != 1 && ktowygral != -1); 
- 
+	
             Console.Clear();  
             Plansza();  
- 
+	
             if (ktowygral == 1)
             {
-                Console.WriteLine("Wygrywa {0} ", (Gracz % 2) + 1);
+                Console.WriteLine("Wygrywa gracz {0} ", (Gracz % 2) + 1);
+
             }
             else 
             {
                 Console.WriteLine("Remis");
             }
-            Console.ReadLine();
+
         }
+
+       
         private static void Plansza()
         {
             Console.WriteLine("     █     █      ");
@@ -75,10 +78,10 @@ namespace KolkoKrzyzyk
             Console.WriteLine("     █     █     ");
             Console.WriteLine("  {0}  █  {1}  █  {2}", tablica[7], tablica[8], tablica[9]);
         }
- 
+
         private static int kto()
         {
-            
+
             #region Poziomo
             if (tablica[1] == tablica[2] && tablica[2] == tablica[3])
             {
@@ -93,7 +96,7 @@ namespace KolkoKrzyzyk
                 return 1;
             }
             #endregion
- 
+	
             #region Pionowo
             else if (tablica[1] == tablica[4] && tablica[4] == tablica[7])
             {
@@ -108,14 +111,14 @@ namespace KolkoKrzyzyk
                 return 1;
             }
             #endregion
-            
+	
             #region Remis
             else if (tablica[1] != '1' && tablica[2] != '2' && tablica[3] != '3' && tablica[4] != '4' && tablica[5] != '5' && tablica[6] != '6' && tablica[7] != '7' && tablica[8] != '8' && tablica[9] != '9')
             {
                 return -1;
             }
             #endregion
- 
+	
             #region Skos
             else if (tablica[1] == tablica[5] && tablica[5] == tablica[9])
             {
@@ -126,11 +129,11 @@ namespace KolkoKrzyzyk
                 return 1;
             }
             #endregion
-
+	
             else
             {
                 return 0;
             }
         }
     }
-}  
+}
