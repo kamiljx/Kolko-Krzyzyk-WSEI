@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Kolko-krzyzyk/Program.cs" description="using System;" line="0" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="335ecaa0-ff8a-45df-b8d2-1a491269b338" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Kolko-krzyzyk/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Kolko-krzyzyk/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Kolko-krzyzyk/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Kolko-krzyzyk/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolko-krzyzyk/bin/Debug/Kolko_krzyzyk.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Kolko-krzyzyk/bin/Debug/Kolko_krzyzyk.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolko-krzyzyk/bin/Debug/Kolko_krzyzyk.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kolko-krzyzyk/bin/Debug/Kolko_krzyzyk.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolko-krzyzyk/obj/Debug/Kolko_krzyzyk.exe" beforeDir="false" afterPath="$PROJECT_DIR$/Kolko-krzyzyk/obj/Debug/Kolko_krzyzyk.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Kolko-krzyzyk/obj/Debug/Kolko_krzyzyk.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Kolko-krzyzyk/obj/Debug/Kolko_krzyzyk.pdb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +19,41 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Kolko-krzyzyk/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="974">
-              <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+            <state relative-caret-position="360">
+              <caret line="24" column="17" lean-forward="true" selection-end-line="136" />
               <folding>
-                <marker date="1560118875828" expanded="true" signature="38:2935" ph="{...}" />
-                <marker date="1560118875828" expanded="true" signature="67:2933" ph="{...}" />
-                <marker date="1560118875828" expanded="true" signature="206:249" ph="{...}" />
-                <marker date="1560118875828" expanded="true" signature="287:843" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="6:37" ph="..." />
+                <marker date="1560157932720" expanded="true" signature="62:4095" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="82:4093" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="315:1847" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="467:558" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="579:671" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="840:1189" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="900:1023" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="1048:1171" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="1211:1432" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="1619:1715" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="1733:1805" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="1885:2441" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="2476:4087" ph="{...}" />
+                <marker date="1560157932720" expanded="false" signature="2512:2932" ph="Poziomo" />
+                <marker date="1560157932720" expanded="true" signature="2597:2651" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="2726:2780" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="2855:2909" ph="{...}" />
+                <marker date="1560157932720" expanded="false" signature="2947:3372" ph="Pionowo" />
+                <marker date="1560157932720" expanded="true" signature="3037:3091" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="3166:3220" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="3295:3349" ph="{...}" />
+                <marker date="1560157932720" expanded="false" signature="3398:3697" ph="Remis" />
+                <marker date="1560157932720" expanded="true" signature="3619:3674" ph="{...}" />
+                <marker date="1560157932720" expanded="false" signature="3712:4005" ph="Skos" />
+                <marker date="1560157932720" expanded="true" signature="3799:3853" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="3928:3982" ph="{...}" />
+                <marker date="1560157932720" expanded="true" signature="4023:4077" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -103,7 +134,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected=".NET Static Method.KolkoKrzyzyk.Program.Plansza">
     <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="$PROJECT_DIR$/Kolko-krzyzyk/bin/Debug/Kolko_krzyzyk.exe" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -122,6 +153,27 @@
         <option name="Build" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KolkoKrzyzyk.Program.Plansza" type="DotNetStaticMethod" factoryName=".NET Static Method" temporary="true">
+      <option name="EXE_PATH" value="$APPLICATION_HOME_DIR$/lib/ReSharperHost/JetLauncherILc.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Kolko-krzyzyk/Kolko-krzyzyk.csproj" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <option name="CLASS_NAME" value="KolkoKrzyzyk.Program" />
+      <option name="METHOD_NAME" value="Plansza" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue=".NET Static Method.KolkoKrzyzyk.Program.Plansza" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -133,12 +185,13 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1560107603712</updated>
-      <workItem from="1560107605838" duration="1474000" />
+      <workItem from="1560107605838" duration="2522000" />
+      <workItem from="1560157676679" duration="1137000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1474000" />
+    <option name="totallyTimeSpent" value="3659000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -153,37 +206,37 @@
     <frame x="767" y="23" width="913" height="966" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22273248" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22732492" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Performance Profiler" />
-      <window_info anchor="bottom" id="Build" weight="0.32951945" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32951945" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3993135" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32951945" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -198,13 +251,37 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Kolko-krzyzyk/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="974">
-          <caret line="78" column="17" selection-start-line="78" selection-start-column="17" selection-end-line="78" selection-end-column="17" />
+        <state relative-caret-position="360">
+          <caret line="24" column="17" lean-forward="true" selection-end-line="136" />
           <folding>
-            <marker date="1560118875828" expanded="true" signature="38:2935" ph="{...}" />
-            <marker date="1560118875828" expanded="true" signature="67:2933" ph="{...}" />
-            <marker date="1560118875828" expanded="true" signature="206:249" ph="{...}" />
-            <marker date="1560118875828" expanded="true" signature="287:843" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="6:37" ph="..." />
+            <marker date="1560157932720" expanded="true" signature="62:4095" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="82:4093" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="315:1847" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="467:558" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="579:671" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="840:1189" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="900:1023" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="1048:1171" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="1211:1432" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="1619:1715" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="1733:1805" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="1885:2441" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="2476:4087" ph="{...}" />
+            <marker date="1560157932720" expanded="false" signature="2512:2932" ph="Poziomo" />
+            <marker date="1560157932720" expanded="true" signature="2597:2651" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="2726:2780" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="2855:2909" ph="{...}" />
+            <marker date="1560157932720" expanded="false" signature="2947:3372" ph="Pionowo" />
+            <marker date="1560157932720" expanded="true" signature="3037:3091" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="3166:3220" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="3295:3349" ph="{...}" />
+            <marker date="1560157932720" expanded="false" signature="3398:3697" ph="Remis" />
+            <marker date="1560157932720" expanded="true" signature="3619:3674" ph="{...}" />
+            <marker date="1560157932720" expanded="false" signature="3712:4005" ph="Skos" />
+            <marker date="1560157932720" expanded="true" signature="3799:3853" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="3928:3982" ph="{...}" />
+            <marker date="1560157932720" expanded="true" signature="4023:4077" ph="{...}" />
           </folding>
         </state>
       </provider>
